@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHG0CpUnPsIxWKp9-_lEB2P6Fq9246z6IPsw&s");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 20px;
+    height: 10px;
+}
+
+.title{
+    text-align: center;
+}
+.container {
+    column-width: 300px;
+    column-gap: 200px;
+    padding-bottom: 10px;
+}
+.paragraph {
+    margin-top: 0px;
+    font-size: 1.2em;
+}
+
+.first{
+    column-count: 3;
+
+}
+.subtitle{
+    column-count: 2;
+}
